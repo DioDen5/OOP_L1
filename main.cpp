@@ -1,5 +1,6 @@
 #include "check_output.h"
-int main() {
 
+int main() {
+    printCal();
     return 0;
 }

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/denyszastavnyi/Documents/OOP-01L/cmake-build-debug",
-		"source" : "/Users/denyszastavnyi/Documents/OOP-01L"
+		"build" : "/Users/denyszastavnyi/Documents/GitHub/OOP_L1/cmake-build-debug",
+		"source" : "/Users/denyszastavnyi/Documents/GitHub/OOP_L1"
 	},
 	"version" : 
 	{
