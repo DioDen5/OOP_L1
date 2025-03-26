@@ -4,11 +4,10 @@
 struct money {
  unsigned int hrn;
  unsigned short int kop;
-
- void addMoney(const money& other);
- void multyMoney(unsigned short int count);
- void aroundMoney();
- void printMoney() const;
 };
+void addMoney(money& total, money& product);
+void multyMoney(money& product, unsigned short int count);
+void aroundMoney(money& total);
+void printMoney(money& total);
 
 #endif
