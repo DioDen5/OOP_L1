@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/denyszastavnyi/Documents/OOP-01L/cmake-build-debug"
+			"value" : "/Users/denyszastavnyi/Documents/GitHub/OOP_L1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/denyszastavnyi/Documents/OOP-01L/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/denyszastavnyi/Documents/GitHub/OOP_L1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/denyszastavnyi/Documents/OOP-01L"
+			"value" : "/Users/denyszastavnyi/Documents/GitHub/OOP_L1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/denyszastavnyi/Documents/OOP-01L/cmake-build-debug"
+			"value" : "/Users/denyszastavnyi/Documents/GitHub/OOP_L1/cmake-build-debug"
 		},
 		{
 			"name" : "OOP_01L_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/denyszastavnyi/Documents/OOP-01L"
+			"value" : "/Users/denyszastavnyi/Documents/GitHub/OOP_L1"
 		}
 	],
 	"kind" : "cache",
